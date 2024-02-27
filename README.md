@@ -1,27 +1,52 @@
-# AngularEcommerce
+<div align="center">
+    <h1>Love2Shop e-commerce frontend</h1>
+    <img src="https://i.ibb.co/GcFNsJz/Angular-full-color-logo.png" width="128" alt="Angular">
+</div>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
+[![license](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-## Development server
+## Love2Shop - Angular frontend
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This is the frontend of my e-commerce application **Love2Shop**. This is an online store where you can buy IT related products. Made using Angular and Bootstrap5.
 
-## Code scaffolding
+Created by Lev Nagornov.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Table of Contents
 
-## Build
+- [Install](#install)
+- [Usage](#usage)
+- [Maintainers](#maintainers)
+- [Contributing](#contributing)
+- [License](#license)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Install
 
-## Running unit tests
+1. Clone the repository using:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```
+git clone https://github.com/levnagornov/love2shop-ecommerce-frontend.git
+```
 
-## Running end-to-end tests
+2. Download and install:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+   TBD..
 
-## Further help
+## Usage
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+TBD..
+
+
+## Maintainers
+
+[@levnagornov](https://github.com/levnagornov)
+
+## Contributing
+
+PRs accepted.
+
+Small note: If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
+
+## License
+
+[MIT © Lev Nagornov.](../LICENSE)
